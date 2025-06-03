@@ -15,7 +15,7 @@
 
 ## 🖼️ Preview
 
-![Lexora Preview](https://your-screenshot-url.com)
+![Lexora Preview](https://github.com/soumojit622/Lexora/blob/master/public/banner.png)
 
 ---
 
@@ -48,7 +48,7 @@
 
 ## 🔗 Links
 
-- [Live Demo](https://lexora.vercel.app)
+- [Live Demo](https://lexora-beta.vercel.app)
 - [Excalidraw](https://excalidraw.com/)
 - [Editor.js](https://editorjs.io/)
 - [Convex Backend](https://convex.dev)
@@ -65,20 +65,43 @@ Built for creators who love visual freedom but demand structure underneath.
 
 ---
 
-## 🧑‍💻 Author
+## 💬 **Contribute to Aspire**  
 
-**Soumojit Banerjee**  
-🎓 B.Tech CSE @ Techno India University  
-🌐 [Portfolio](https://your-portfolio.com)  
-🐙 [GitHub](https://github.com/soumojit821)  
-💼 [LinkedIn](https://linkedin.com/in/soumojitbanerjee)
+We welcome contributions from developers and enthusiasts! To contribute:  
+
+1. 🍴 Fork the repository.
+2. 🌿 Create a new branch:
+    ```bash
+    git checkout -b feature-branch
+    ```
+3. 🖊️ Commit your changes:
+    ```bash
+    git commit -m "Add your feature"
+    ```
+4. 🚀 Push the branch:
+    ```bash
+    git push origin feature-branch
+    ```
+5. 🔀 Open a pull request to merge your changes.
 
 ---
 
-## 📜 License
+## 📬 **Contact & Support**  
 
-Licensed under the **MIT License** — feel free to clone, fork, and innovate.
+💬 **Have any questions or suggestions? Feel free to reach out!**  
+
+📧 **Email**: [soumojitbanerjee22@gmail.com](mailto:soumojitbanerjee22@gmail.com)  
+🔗 **LinkedIn**: [Soumojit Banerjee](https://www.linkedin.com/in/soumojit-banerjee-4914b3228/)  
 
 ---
 
-> Built with coffee, curiosity, and code.
+## 👨‍💻 **Developed by [Soumojit Banerjee](https://www.linkedin.com/in/soumojit-banerjee-4914b3228/)**  
+
+If you enjoyed using this project, please ⭐ it on GitHub! 🌟  
+
+---
+
+## 🎉 **Acknowledgements**  
+
+Special thanks to **ChatGPT** and **v0dev** for assisting in optimizing and streamlining the development of this project! 🚀✨  
+
