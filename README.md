@@ -5,6 +5,7 @@
 ![Excalidraw](https://img.shields.io/badge/Excalidraw-Canvas-green?style=flat-square&logo=excalidraw&logoColor=white)
 ![Convex](https://img.shields.io/badge/Convex-Database-black?style=flat-square)
 ![ShadCN UI](https://img.shields.io/badge/Shadcn%20UI-Components-pink?style=flat-square)
+![Kinde](https://img.shields.io/badge/Kinde-Auth-orange?style=flat-square&logo=kinde&logoColor=white)
 
 ---
 
@@ -21,28 +22,28 @@
 
 ## ✨ Key Features
 
-- **Block-Based Editor**: Write documents using modular blocks like headers, lists, checklists, warnings, etc.
-- **Live Canvas Drawing**: Collaborative whiteboarding experience using Excalidraw.
-- **Realtime Sync**: Instant document updates across users with Convex backend.
-- **Neobrutalist UI**: Bold UI components with dark outlines, vibrant color blocks, and sharp shadows.
-- **Fully Responsive**: Mobile-first layout with scalable functionality.
-- **Authentication**: Clerk integration with customizable access logic.
-- **File Collaboration**: File-driven architecture for multi-user editing.
+- **Block-Based Editor**: Write documents using modular blocks like headers, lists, checklists, warnings, and more.
+- **Live Canvas Drawing**: Real-time collaborative whiteboarding using Excalidraw.
+- **Realtime Sync**: Powered by Convex backend for lightning-fast multi-user data updates.
+- **NeoBrutalist Design**: Bold typography, high-contrast outlines, and vibrant color palettes.
+- **Authentication**: Secured using Kinde Auth — easy sign-up and login.
+- **Collaborative Workspace**: File-centric document and canvas sharing.
+- **Mobile-Responsive**: Smooth UI across all screen sizes.
 
 ---
 
 ## 🧰 Tech Stack Overview
 
-| Logo | Technology     | Purpose                                  |
-|------|----------------|------------------------------------------|
-| ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white) | **Next.js 15**   | React Framework with App Router          |
+| Logo | Technology     | Description                                  |
+|------|----------------|----------------------------------------------|
+| ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white) | **Next.js 15**   | React Framework (App Router)              |
 | ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white) | **Tailwind CSS** | Utility-first CSS framework               |
-| ![EditorJS](https://img.shields.io/badge/-EditorJS-DDD?logo=editor.js&logoColor=black) | **Editor.js**    | Block-style WYSIWYG editor                |
-| ![Excalidraw](https://img.shields.io/badge/-Excalidraw-3C3C3C?logo=excalidraw&logoColor=white) | **Excalidraw**   | Sketch-style collaborative whiteboard     |
-| ![Convex](https://img.shields.io/badge/-Convex-111111?logo=data&logoColor=white) | **Convex**       | Realtime backend and database             |
-| ![Shadcn](https://img.shields.io/badge/-ShadCN%20UI-DD6B20?logo=react&logoColor=white) | **ShadCN UI**    | Headless accessible UI components         |
-| ![Lucide](https://img.shields.io/badge/-Lucide%20Icons-4B5563?logo=lucide&logoColor=white) | **Lucide Icons** | Lightweight, clean icon library           |
-| ![Clerk](https://img.shields.io/badge/-Clerk-6B21A8?logo=clerk&logoColor=white) | **Clerk Auth**   | Authentication provider                   |
+| ![EditorJS](https://img.shields.io/badge/-EditorJS-DDD?logo=editor.js&logoColor=black) | **Editor.js**    | Block-style WYSIWYG text editor           |
+| ![Excalidraw](https://img.shields.io/badge/-Excalidraw-3C3C3C?logo=excalidraw&logoColor=white) | **Excalidraw**   | Real-time sketching & drawing canvas      |
+| ![Convex](https://img.shields.io/badge/-Convex-111111?logo=data&logoColor=white) | **Convex**       | Realtime backend & database               |
+| ![Shadcn](https://img.shields.io/badge/-ShadCN%20UI-DD6B20?logo=react&logoColor=white) | **ShadCN UI**    | Headless, themeable UI component library  |
+| ![Lucide](https://img.shields.io/badge/-Lucide%20Icons-4B5563?logo=lucide&logoColor=white) | **Lucide Icons** | Open-source icon pack                     |
+| ![Kinde](https://img.shields.io/badge/-Kinde%20Auth-F97316?logo=kinde&logoColor=white) | **Kinde Auth**   | Authentication & user session management  |
 
 ---
 
@@ -54,6 +55,7 @@
 - [Convex Backend](https://convex.dev)
 - [ShadCN UI Docs](https://ui.shadcn.dev)
 - [Lucide Icons](https://lucide.dev)
+- [Kinde Auth](https://kinde.com)
 
 ---
 
